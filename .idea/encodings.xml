@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/css/proscenium/showAllBrands.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/brandManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/categoryManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/goodsManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/managerWorker.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/noticeManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/orderManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/styleManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/updatePassword.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/updateWorkerInfo.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/backstage/workerManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/addressManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/carManager.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/checkAddressInput.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/checkEmail.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/collect.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/commentGoods.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/firmOrder.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/forgetPassword.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/goodsCategory.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/history.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/indexTop.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/passwordStrength.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/scroll.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/secretSecurity.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/seeComment.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/seeJinB.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/seeOrder.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/showAllBrands.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/showCar.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/userCenterInfor.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/userCenterUpdatePW.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/userLogin.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/userManagerCenter.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/js/proscenium/userRegist.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shop/service/BrandService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/shop/service/impl/GoodsColorServiceImpl.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

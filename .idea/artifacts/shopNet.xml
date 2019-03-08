@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="shopNet">
+    <output-path>$PROJECT_DIR$/out/artifacts/shopNet</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="shopNet" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="shopNet/web/Web" />
+    </root>
+  </artifact>
+</component>
